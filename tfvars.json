@@ -1,0 +1,17 @@
+  { 
+     "resource_group_name":"sai",
+	 "location":"westus",
+	  "client_id":"a72d3c4c-8809-498c-a0fd-75bfe9e94ded",
+	 "tenant_id":"049ab9f2-2ee3-4261-a12b-266f405e2d0d",
+	 "subscription_id":"88e5b8f5-e109-4e20-872c-0bd838d42c12",
+	 "tag_primary":"venkatesh.b@mphasis.com",
+	 "tag_Pcode":"98025",
+	 "tag_Secondary":"samir.kapoor@mphasis.com",
+	 "tag_PName":"CLOUD_COE",
+	 "storageaccountname":"cistran3232",
+	 "account_replication_type":"GRS",
+	 "account_tier":"Standard",
+	 "client_secret":"lZHa4~DuwpR8-3CWTVd.ep6X6gK.1har_S"
+	 
+	 	          
+	}
